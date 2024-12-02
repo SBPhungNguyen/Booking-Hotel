@@ -36,20 +36,9 @@
 
 <!-- Giới thiệu đồ án -->
 
-# Giới thiệu nhóm
+## Giới thiệu nhóm
 
-Xin chào mọi người! Chúng em là **Nhóm 11** đến từ lớp **NT208.O22.ANTT**.
-Nhóm chúng em gồm 5 thành viên:
-
-- **22521376** - Trịnh Thị Bích Thảo (Nhóm trưởng)
-- **22521541** - Thái Ngọc Diễm Trinh
-- **22521444** - Huỳnh Trung Thuận
-- **22521446** - Lê Hiệp Thuận
-- **22521202** - Nguyễn Đình Quang
-
-# Giới thiệu đồ án
-
-Link deploy web: https://lastingtrip-674584f294be.herokuapp.com/
+## Giới thiệu đồ án
 
 ## Lý do chọn đề tài
 
@@ -57,10 +46,6 @@ Ngành du lịch và khách sạn đang phát triển mạnh mẽ. Mọi ngườ
 Bên cạnh đó, xây dựng một trang web đặt phòng khách sạn sẽ giúp phát triển kỹ năng lập trình, thiết kế giao diện, và quản lý cơ sở dữ liệu... Đồ án này đòi hỏi phải tư duy logic, xây dựng hệ thống, và tương tác với cơ sở dữ liệu. Điều này sẽ giúp rèn luyện khả năng giải quyết vấn đề và phát triển sự sáng tạo...
 
 ## Các chức năng cơ bản
-
-![tongQuan](https://github.com/Thaopieh/Crying-/assets/136552635/e27332ec-05a8-4772-9c3b-06cb47259a24)
-
-<p align="center">Hình. Thiết kế tổng quan của hệ thống</p>
   
 ### Admin
 * Quản lý người dùng
